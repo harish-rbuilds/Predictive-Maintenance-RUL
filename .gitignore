@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C-MAPSS data files (excluding documentation)
+data/*.zip
+data/*.txt
+!data/README.md
+
+# Environments
+.venv/
+venv/
+env/
+
+# IDE and OS
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
